@@ -32,7 +32,7 @@ namespace Project.Controllers
                              MaTaiKhoan = orderGroup.First().hd.MaTaiKhoan,
                              NgayBan = orderGroup.First().hd.NgayBan,
                              TrangThai = orderGroup.First().hd.MaTrangThaiNavigation.TenTrangThai,
-                             TongTien= orderGroup.Sum(o => o.ct.Gia * o.ct.SoLuong) // Calculate total for each order
+                             TongTien= orderGroup.Sum(o => o.ct.Gia * o.ct.SoLuong) // Calculate total for each order .
                          };
 
             var orderList = orders.ToList();
