@@ -22,7 +22,7 @@ namespace Project.Controllers
         {
             var dienThoais = db.DienThoais.AsQueryable();
 
-            // Lưu giá trị đã chọn để sử dụng lại trong view
+            // Lưu giá trị đã chọn để sử dụng lại trong view a
             ViewBag.SelectedBrands = thuonghieu ?? Array.Empty<string>();
             ViewBag.SelectedRams = ram ?? Array.Empty<string>();
             ViewBag.SelectedBoNhoTrongs = boNhoTrong ?? Array.Empty<string>();
