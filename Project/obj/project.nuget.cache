@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7GMqA7JGblo3W4RKtN9kdh1rpYTBUk3Fz3oP4y9LVFHW082+1szDNP0WAnUz+WTHtp4lxcCom7nCwKDr5eiHGA==",
+  "dgSpecHash": "c5u9gPlcf/yVSzSm7oSmL8ICiBojG6frX3zhF94oQSUP1LtfO7WhMg4iiYn8fj1pFpk1uwOWllYBkEhEfdTpJg==",
   "success": true,
-  "projectFilePath": "E:\\testback\\Project\\Project.csproj",
+  "projectFilePath": "E:\\testback\\backend-Nhom01\\Project\\Project.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ACER\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\ACER\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
