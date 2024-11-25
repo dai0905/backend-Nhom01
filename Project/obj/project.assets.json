@@ -8498,11 +8498,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\testback\\Project\\Project.csproj",
+      "projectUniqueName": "E:\\testback\\backend-Nhom01\\Project\\Project.csproj",
       "projectName": "Project",
-      "projectPath": "E:\\testback\\Project\\Project.csproj",
+      "projectPath": "E:\\testback\\backend-Nhom01\\Project\\Project.csproj",
       "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-      "outputPath": "E:\\testback\\Project\\obj\\",
+      "outputPath": "E:\\testback\\backend-Nhom01\\Project\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
