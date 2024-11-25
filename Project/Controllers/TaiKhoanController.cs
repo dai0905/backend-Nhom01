@@ -17,7 +17,7 @@ namespace Project.Controllers
         private readonly ProjectContext db;
         private readonly IMapper _mapper;
 
-        // Constructor với ProjectContext và IMapper .
+        // Constructor với ProjectContext và IMapper ..
         public TaiKhoanController(ProjectContext context, IMapper mapper)
         {
             db = context;
